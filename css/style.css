@@ -1,6 +1,9 @@
 body {
   margin: 0;
   background: #272527;
+  display: grid;
+  align-content: center;
+  height: 100vh;
 }
 
 ul {
